@@ -3,7 +3,7 @@
   import Logo from '$lib/assets/chez-dub-bar-bieres-logo.png'
 </script>
 
-<header class="hero is-primary">
+<header class="hero is-black">
   <div class="hero-body">
     <div class="container">
       <div class="columns is-vcentered">
@@ -22,7 +22,3 @@
     </div>
   </div>
 </header>
-
-<style>
-    @import 'bulma/css/bulma.min.css';
-  </style>

@@ -7,3 +7,9 @@
 <Header/>
 <Main/>
 <Footer/>
+
+<style>
+    * {
+        font-family: 'Josefin Sans';
+    }
+</style>
