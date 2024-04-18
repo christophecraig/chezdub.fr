@@ -5,7 +5,7 @@
 </script>
 
 <Header/>
-<Main/>
+<!-- <Main/> -->
 <Footer/>
 
 <style>
