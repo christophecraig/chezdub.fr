@@ -17,17 +17,26 @@
         <div class="column has-text-centered">
           <img src={Logo} alt="Chez Dub Logo" />
           <div class="buttons flex is-justify-content-center mt-4">
-            <a href="https://facebook.com/chezdub" class="button is-warning">
+            <a
+              href="https://facebook.com/chezdub"
+              class="button is-warning"
+              target="_blank"
+            >
               <span class="icon"><i class="fa-brands fa-facebook"></i> </span>
               <span>Facebook</span></a
             >
-            <a href="https://instagram.com/chezdub" class="button is-warning">
+            <a
+              href="https://instagram.com/chezdub"
+              class="button is-warning"
+              target="_blank"
+            >
               <span class="icon"><i class="fa-brands fa-instagram"></i> </span>
               <span>Instagram</span></a
             >
             <a
               href="https://maps.app.goo.gl/PTqL1Uss17f2xBrF9"
               class="button is-warning"
+              target="_blank"
             >
               <span class="icon"><i class="fa-brands fa-google"></i> </span>
               <span>Google Maps</span></a
@@ -39,17 +48,25 @@
             Bienvenue <span style="white-space: nowrap">Chez Dub!</span>
           </h2>
           <p>
-            Bar et cave à bières Saint-Cyr-sur-Loire pour les amateurs de bonne
+            <!-- Bar et cave à bières Saint-Cyr-sur-Loire pour les amateurs de bonne
             bière et de moments conviviaux. Découvrez notre sélection de bières
             artisanales, vins et spiritueux, accompagnés de délicieuses planches
             à partager. Besoin d'une tireuse à bière pour une soirée entre amis
             ? Nous avons ce qu'il vous faut. Chez Dub!, c'est bien plus qu'un
             simple bar à bières - c'est un lieu de rencontre, de partage et de
             détente. Venez vivre l'esprit de "Chez Dub!" - là où chaque instant
-            est une invitation à profiter de l'instant présent.
+            est une invitation à profiter de l'instant présent. -->
+            On arrive bientôt avec un site tout neuf, en attendant, suivez-nous sur
+            nos réseaux sociaux pour rester au courant des actualités et des évènements!
           </p>
         </div>
       </div>
     </div>
   </div>
 </header>
+
+<style type="text/css">
+  header {
+    font-family: "Josefin Sans", sans-serif;
+  }
+</style>
