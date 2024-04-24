@@ -1,9 +1,23 @@
 <script>
-    // Import any necessary dependencies here
+  // Import any necessary dependencies here
 </script>
 
 <section class="section has-text-white" style="background: #000">
-    <div class="container">
-      <p>On arrive bientôt avec un site tout neuf, en attendant, suivez-nous sur nos réseaux sociaux pour rester au courant des actualités et des évènements!</p>
-    </div>
-  </section>
+  <div class="container">
+    <!-- TODO mettre emoji bière centré et coloré comme il faut ici, type néon -->
+    <span class="is-size-6-mobile is-size-5-tablet">
+      Découvrez notre bar à bières avec 12 pressions variées, des vins,
+      cocktails et softs. Profitez de notre cuisine avec des plats du jour,
+      burgers, tapas et planches apéro. Explorez notre cave avec une large
+      sélection de bières, vins, spiritueux et coffrets cadeaux. Rejoignez-nous
+      pour des soirées animées avec karaoké, blind test, concerts, dégustations
+      et diffusions d'événements sportifs !
+    </span>
+  </div>
+</section>
+
+<style>
+.section {
+  font-family: "Josefin Sans", sans-serif
+}
+</style>

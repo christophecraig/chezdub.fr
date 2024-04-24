@@ -16,32 +16,6 @@
       <div class="columns is-vcentered has-text-centered">
         <div class="column has-text-centered">
           <img src={Logo} alt="Chez Dub Logo" />
-          <div class="buttons flex is-justify-content-center mt-4">
-            <a
-              href="https://facebook.com/chezdub"
-              class="button is-warning"
-              target="_blank"
-            >
-              <span class="icon"><i class="fa-brands fa-facebook"></i> </span>
-              <span>Facebook</span></a
-            >
-            <a
-              href="https://instagram.com/chezdub"
-              class="button is-warning"
-              target="_blank"
-            >
-              <span class="icon"><i class="fa-brands fa-instagram"></i> </span>
-              <span>Instagram</span></a
-            >
-            <a
-              href="https://maps.app.goo.gl/PTqL1Uss17f2xBrF9"
-              class="button is-warning"
-              target="_blank"
-            >
-              <span class="icon"><i class="fa-brands fa-google"></i> </span>
-              <span>Google Maps</span></a
-            >
-          </div>
         </div>
         <div class="column">
           <h2 class="title is-2">
