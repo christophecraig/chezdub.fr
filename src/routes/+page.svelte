@@ -1,4 +1,5 @@
 <script>
+    export const prerender = true;
     import Footer from "../components/Footer.svelte";
     import Header from "../components/Header.svelte";
     import Main from "../components/Main.svelte";
@@ -7,9 +8,3 @@
 <Header/>
 <Main/>
 <Footer/>
-
-<style>
-    * {
-        font-family: 'Josefin Sans';
-    }
-</style>

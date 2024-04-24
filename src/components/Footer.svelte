@@ -1,4 +1,5 @@
 <script>
+    export const prerender=true
     // Import any necessary dependencies here
 </script>
 

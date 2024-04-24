@@ -1,4 +1,5 @@
 <script>
+  export const prerender=true
   import Logo from "$lib/assets/chez-dub-bar-bieres-logo.png";
 </script>
 
