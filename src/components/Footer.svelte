@@ -11,20 +11,29 @@
                     <div class="icon mr-2 has-text-warning">
                         <i class="fa-solid fa-location"></i>
                     </div>
-                    2 Rue Mireille Brochier - 37540 Saint-Cyr-sur-Loire
+                    <div>
+                        <span style="text-wrap: nowrap;"
+                            >2 Rue Mireille Brochier</span
+                        >
+                        -
+                        <span style="text-wrap: nowrap"
+                            >37540 Saint-Cyr-sur-Loire</span
+                        >
+                    </div>
                 </li>
                 <li class="is-flex is-align-content-start has-text-white">
                     <div class="icon mr-2 has-text-warning">
                         <i class="fa-solid fa-phone"></i>
                     </div>
-                     02 47 87 20 15
+                    02 47 87 20 15
                 </li>
                 <li class="is-flex is-align-content-start has-text-white">
                     <div class="icon mr-2 has-text-warning">
                         <i class="fa-solid fa-envelope"></i>
                     </div>
-                    <a class="is-link has-text-white" href="mailto:contact@chezdub.fr"
-                        >contact@chezdub.fr</a
+                    <a
+                        class="is-link has-text-white"
+                        href="mailto:contact@chezdub.fr">contact@chezdub.fr</a
                     >
                 </li>
             </ul>
@@ -34,7 +43,7 @@
 
 <style lang="scss">
     footer {
-        border-top: 2px solid #FFB70F;
+        border-top: 2px solid #ffb70f;
         font-family: "Josefin Sans", sans-serif;
         min-height: 0;
     }
