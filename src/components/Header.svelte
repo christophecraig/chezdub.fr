@@ -4,13 +4,16 @@
 </script>
 
 <header class="hero is-black" style="background: #000">
-  <!-- <nav class="navbar is-black" style="background: #000">
+  <nav class="navbar is-black" style="background: #000">
     <div class="navbar-brand">
       <a class="navbar-item py-0" href="/">
         <img src={Logo} style="max-height:3em" />
       </a>
     </div>
-  </nav> -->
+    <div class="navbar-item">
+      <a href="/beers">Bières</a>
+    </div>
+  </nav>
   <div class="hero-body">
     <div class="container">
       <!-- <nav><h1 class="title is-size-1">Chez Dub</h1> -->
